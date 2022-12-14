@@ -1,2 +1,2 @@
 # Suzuran.github.io
- Main Page
+Main Page
